@@ -16,7 +16,7 @@ FitPulse is a privacy-focused web application that provides personalized health 
 
 ## Demo
 
-Try the live demo: [FitPulse Demo](https://your-demo-link-here.com)
+Try the live demo: [FitPulse Demo](https://fitpulse-ai.netlify.app/)
 
 ## Getting Started
 
